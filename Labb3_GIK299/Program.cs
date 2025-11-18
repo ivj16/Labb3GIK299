@@ -1,10 +1,22 @@
 ﻿using System;
 namespace Labb3_GIK299
 {
-    class Temperature
+    public class Temperature
     {
         //array med 31 dagar för maj
+        public int[] mayDays = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31];
+
+        //public Random randomNumber; = new Random();
+        //public int maxTemp = 25;
+        //public int minTemp = 5;
+        public int temp = Random.Next(int 5, int 26);
+
         //generera data med random och next()-metod
+        
+        
+        
+
+        
         
         //Metoder:
         //1 temperaturdata för varje dag
@@ -23,6 +35,11 @@ namespace Labb3_GIK299
     {
         static void Main(string[] args)
         {
+            
+            Temperature tempPerDays = new Temperature();
+
+
+            Console.WriteLine(tempPerDays.temp);
             //skriv ut en lista med de 9 valen
 
             //input med en siffra 1-9
