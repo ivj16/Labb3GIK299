@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Labb3_GIK299")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+531497dd719454182268036d8f47c3e6401fc338")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a53faac50771ebb09a214d48bf602927b0e97f27")]
 [assembly: System.Reflection.AssemblyProductAttribute("Labb3_GIK299")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Labb3_GIK299")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
